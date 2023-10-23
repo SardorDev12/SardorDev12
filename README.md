@@ -7,7 +7,7 @@ I'm Sardor, a passionate frontend developer from Uzbekistan. Welcome to my GitHu
 - 💻 I'm currently working as a Front-End Developer at Supersite.uz IT company.
 - 🌱 I'm passionate about creating software application, reading books and playing chess.
 - 📚 I love to learn and experiment with new technologies.
-- 📢 You can find me on [LinkedIn](https://www.linkedin.com/in/sardor-ibn-farhod-0314b628b) and [Telegram](t.me/SardorFarhodOgli)
+- 📢 You can find me on [LinkedIn](http://www.linkedin.com/in/sardorbek-ismonjonov-0314b628b) and [Telegram](https://t.me/SardorFarhodOgli)
 
 ## My Tech Stack
 
