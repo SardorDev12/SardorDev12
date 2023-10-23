@@ -1,10 +1,10 @@
 # Hi there! 👋
 
-I'm Sardor, a passionate software developer from Uzbekistan. Welcome to my GitHub profile!
+I'm Sardor, a passionate frontend developer from Uzbekistan. Welcome to my GitHub profile!
 
 ## About Me
 
-- 💻 I'm currently working as a Front-End Developer.
+- 💻 I'm currently working as a Front-End Developer at Supersite.uz IT company.
 - 🌱 I'm passionate about creating software application, reading books and playing chess.
 - 📚 I love to learn and experiment with new technologies.
 - 📢 You can find me on [LinkedIn](https://www.linkedin.com/in/sardor-ibn-farhod-0314b628b) and [Telegram](t.me/SardorIbnFarhod)
@@ -12,9 +12,7 @@ I'm Sardor, a passionate software developer from Uzbekistan. Welcome to my GitHu
 ## My Tech Stack
 
 - 💼 Here are some of the technologies I work with:
-  - 🌐 Front-end: HTML, CSS, JavaScript, React
-  - 🖥️ Back-end: Node.js, Express.js, Python
-  - 🛢️ Databases: MongoDB, MySQL
+  - 🌐 Front-end: HTML, CSS, Sass, JavaScript, React, Redux
   - 📦 Other: Git, VSCode
 
 ## My Projects
